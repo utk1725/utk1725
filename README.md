@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1603042799144?e=2147483647&v=beta&t=H2ZrzJXhqS530g3b9AvI9sRV6it3vVu1WtSG7qt3ukE )]
+![MasterHead](https://media.licdn.com/dms/image/v2/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1603042799144?e=2147483647&v=beta&t=H2ZrzJXhqS530g3b9AvI9sRV6it3vVu1WtSG7qt3ukE )
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">Full-Stack Dev | Backend Enthusiast | AI/ML Explorer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif">
