@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **utk1725@gmail.com**
 
-- [📄 Know about my experiences ](https://drive.google.com/file/d/195EJZ89ais9FhgII9zgIeMCTPSHFoBfJ/view?usp=sharing)
+- [📄 Know about my experiences ](https://drive.google.com/file/d/10ioKJjrPcdfgUt73XbPaHgVS1kN7aNeN/view?usp=sharing)
 
 - ⚡ Fun fact **Talking to AI models, then build smarter ones to talk back.**
 
