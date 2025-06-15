@@ -72,7 +72,7 @@
 - 🤖 Building real-time **Retrieval-Augmented Generation** systems with low-latency pipelines
 - 🧠 Fine-tuning **Open Source LLMs** for task-specific deployments
 - 📦 Containerizing pipelines with **Docker** for scalable deployment
-- ⚙️ Implementing **MPC-RAG** (Multi-Pass Contextual RAG) for more refined query resolution
+- ⚙️ Implementing **MCP** (Model Context Protocol) for better user experience
 - 🌐 Building microservices using **FastAPI** + **Mongo/Postgres** + **Vector DBs**
 
 ---
